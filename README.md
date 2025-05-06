@@ -1,4 +1,4 @@
-## 🎮 2048 Game
+## 🎮 2048 Game 
 
 A simple clone of the classic 2048 puzzle game.
 
